@@ -22,6 +22,7 @@ var/
 .idea/
 notebooks/
 wheels/
+authentication_details/api_authentication_details.json
 
 pip-wheel-metadata/
 share/python-wheels/

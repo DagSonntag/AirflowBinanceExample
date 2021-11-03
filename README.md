@@ -30,3 +30,6 @@ For the airflow instance the login details are:
 user: airflow
 password: airflow
 
+
+ENJOY!
+
